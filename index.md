@@ -1,12 +1,7 @@
 ## About Me
 
-I am Senior at Lehigh University majoring in Business Information Systems and Finance
+I am Senior at Lehigh University double majoring in Business Information Systems and Finance. I will be joining Bloomberg as a Data Analyst following my graduation in May 2022. 
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="images/Screen Shot 2018-12-29 at 10.39.15 PM.png" width="50%">
-</p>
 ---
 
 ## Portfolio
