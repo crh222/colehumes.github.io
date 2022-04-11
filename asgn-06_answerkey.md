@@ -1,17 +1,9 @@
-Peer review form:
-
-https://forms.gle/533KasgeiteMNqSN8
-
----
-
 ## My answers
 
-### Your EDA summary should include AT LEAST this:
+EDA summary should include AT LEAST this:
 - N=1941. 
 - The unit of observation is house sales, 
 - from 2006-2008. 
-
-But it should go much farther than this. Finding variables with missing values and outliers should be quite easy, and beyond that, there are a lot of creative ways you should consider manipulating variables. 
 
 ### Regressions
 
