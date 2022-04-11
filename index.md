@@ -10,7 +10,7 @@ I am Senior at Lehigh University double majoring in Business Information Systems
 
 _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
-This project was designed to test the skills that we have learned up to this point in the semester. We were tasked with downloading information on company's within the S&P 500, both qualitative and quantitative. With this information we then analyzed Covid-19's effect on company's stock returns over a given period. Coupling this with how it related to risk measures that were previously defined by the student. The risk measures were a product of parsing individual company's 10-K's for keywords that related to the risk. This was used as a proxy for risk. The objective was then to see if these risk measures played a role in the company's performance.
+Linked is a finance project that I worked on in Spring 2022 for one of my senior level finance courses.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -24,7 +24,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://github.com/crh222/colehumes.github.io/blob/master/asgn-06_answerkey.md)**_
+_**[Eventual team project](asgn-06_answerkey)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
