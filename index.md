@@ -24,7 +24,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project](https://github.com/crh222/colehumes.github.io/blob/master/asgn-06_answerkey.md)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
