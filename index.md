@@ -8,7 +8,7 @@ I am Senior at Lehigh University double majoring in Business Information Systems
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
+_**[Natural language processing 10-Ks to identify risks](measure_risk)**_
 
 Linked is a finance project that I worked on in Spring 2022 for one of my senior level finance courses.
 
