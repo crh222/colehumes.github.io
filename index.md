@@ -16,7 +16,7 @@ Linked is a finance project that I worked on in Spring 2022 for one of my senior
 
 ---
 
-_**[Midterm Analysis](Regression_practice)**_
+_**[Midterm Analysis](analysis_report)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
