@@ -18,19 +18,13 @@ Linked is a finance project that I worked on in Spring 2022 for one of my senior
 
 _**[Midterm Analysis](analysis_report)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Linked is an analysis of my natural language processing project.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Regression Practice](asgn-06_answerkey)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
