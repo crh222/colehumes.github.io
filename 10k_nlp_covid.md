@@ -1,10 +1,4 @@
-## You can add additional MD and HTML files to your website
-
-Below, I just write an MD file from scratch.
-
-Alternatively, you can "directly" add jupyter notebooks to the site. Look at the ["Regression Practice"](Regression_practice) page for details.
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This project was designed to test the skills that we have learned up to this point in the semester. We were tasked with downloading information on company’s within the S&P 500, both qualitative and quantitative. With this information we then analyzed Covid-19’s effect on company’s stock returns over a given period. Coupling this with how it related to risk measures that were previously defined by the student. The risk measures were a product of parsing individual company’s 10-K’s for keywords that related to the risk. This was used as a proxy for risk. The objective was then to see if these risk measures played a role in the company’s performance.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
